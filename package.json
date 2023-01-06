@@ -1,0 +1,11 @@
+{
+  "name": "stopwords",
+  "version": "1.0.0",
+  "description": "Stopwords for the terminology extraction tool TGM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "José Negro",
+  "license": "MIT"
+}
