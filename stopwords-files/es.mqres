@@ -1,7 +1,7 @@
 ﻿<MemoQResource ResourceType="Stopwords" Version="1.0">
   <Resource>
     <Guid>5bcc3470-b57d-433c-aedf-b269ca56fd8f</Guid>
-    <FileName>spa#memoq-stopwords.mqres</FileName>
+    <FileName>es.mqres</FileName>
     <Name>es-stopwords</Name>
     <Description>Stopwords list automatically created with TGM tool (https://chrome.google.com/webstore/detail/search-lex/dpilodkjdhaopamblofopglocigoclab) </Description>
     <Language>spa</Language>
