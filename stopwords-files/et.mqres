@@ -1,0 +1,44 @@
+﻿<MemoQResource ResourceType="Stopwords" Version="1.0">
+  <Resource>
+    <Guid>6e7f0fe1-6f9c-4e96-8f31-7a5b9a5e01f7</Guid>
+    <FileName>est#memoq-stopwords.mqres</FileName>
+    <Name>et-stopwords</Name>
+    <Description>Stopwords list automatically created with TGM tool (https://chrome.google.com/webstore/detail/search-lex/dpilodkjdhaopamblofopglocigoclab) </Description>
+    <Language>est</Language>
+  </Resource>
+</MemoQResource>
+aga	111
+ära	111
+ei	111
+et	111
+ja	111
+jah	111
+kas	111
+kõik	111
+kui	111
+ma	111
+me	111
+mida	111
+midagi	111
+mind	111
+minu	111
+mis	111
+mu	111
+mul	111
+mulle	111
+nad	111
+nii	111
+oled	111
+olen	111
+oli	111
+oma	111
+on	111
+pole	111
+sa	111
+seda	111
+see	111
+selle	111
+siin	111
+siis	111
+ta	111
+te	111
