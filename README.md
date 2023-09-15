@@ -1,6 +1,6 @@
 #stopwords
 
-A series of stopwords files in memoq resource format .mqres This repo includes the next languages:
+A series of stopwords files in memoq resource format .mqres This repo includes the following languages:
 
 - bulgarian
 - czech
